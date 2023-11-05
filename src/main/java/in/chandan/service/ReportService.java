@@ -1,11 +1,11 @@
-package in.ashokit.service;
+package in.chandan.service;
 
 import java.util.List;
 
 import javax.servlet.http.HttpServletResponse;
 
-import in.ashokit.request.SearchRequest;
-import in.ashokit.response.SearchResponse;
+import in.chandan.request.SearchRequest;
+import in.chandan.response.SearchResponse;
 
 public interface ReportService {
 

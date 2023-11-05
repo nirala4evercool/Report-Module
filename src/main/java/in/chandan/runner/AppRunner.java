@@ -1,12 +1,12 @@
-package in.ashokit.runner;
+package in.chandan.runner;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.stereotype.Component;
 
-import in.ashokit.EligibilityDetailsRepo;
-import in.ashokit.entity.EligibilityDetails;
+import in.chandan.EligibilityDetailsRepo;
+import in.chandan.entity.EligibilityDetails;
 
 @Component
 public class AppRunner implements ApplicationRunner {

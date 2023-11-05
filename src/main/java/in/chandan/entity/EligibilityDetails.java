@@ -1,4 +1,4 @@
-package in.ashokit.entity;
+package in.chandan.entity;
 
 import java.time.LocalDate;
 

@@ -1,11 +1,11 @@
-package in.ashokit;
+package in.chandan;
 
 import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
-import in.ashokit.entity.EligibilityDetails;
+import in.chandan.entity.EligibilityDetails;
 
 public interface EligibilityDetailsRepo extends JpaRepository<EligibilityDetails, Integer> {
 

@@ -1,4 +1,4 @@
-package in.ashokit.service;
+package in.chandan.service;
 
 import java.awt.Color;
 import java.time.LocalDate;
@@ -26,10 +26,10 @@ import com.lowagie.text.pdf.PdfPCell;
 import com.lowagie.text.pdf.PdfPTable;
 import com.lowagie.text.pdf.PdfWriter;
 
-import in.ashokit.EligibilityDetailsRepo;
-import in.ashokit.entity.EligibilityDetails;
-import in.ashokit.request.SearchRequest;
-import in.ashokit.response.SearchResponse;
+import in.chandan.EligibilityDetailsRepo;
+import in.chandan.entity.EligibilityDetails;
+import in.chandan.request.SearchRequest;
+import in.chandan.response.SearchResponse;
 
 @Service
 public class ReportServiceImpl implements ReportService {

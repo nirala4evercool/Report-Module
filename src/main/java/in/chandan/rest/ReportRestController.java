@@ -1,4 +1,4 @@
-package in.ashokit.rest;
+package in.chandan.rest;
 
 import java.util.List;
 
@@ -12,9 +12,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import in.ashokit.request.SearchRequest;
-import in.ashokit.response.SearchResponse;
-import in.ashokit.service.ReportService;
+import in.chandan.request.SearchRequest;
+import in.chandan.response.SearchResponse;
+import in.chandan.service.ReportService;
 
 @RestController
 public class ReportRestController {

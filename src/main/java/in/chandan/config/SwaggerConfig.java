@@ -1,4 +1,4 @@
-package in.ashokit.config;
+package in.chandan.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

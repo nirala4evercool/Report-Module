@@ -1,4 +1,4 @@
-package in.ashokit.response;
+package in.chandan.response;
 
 import lombok.Data;
 

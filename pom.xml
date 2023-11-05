@@ -9,7 +9,7 @@
 		<version>2.5.5</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.ashokit</groupId>
+	<groupId>in.chandan</groupId>
 	<artifactId>02_REPORTS_API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>02_REPORTS_API</name>
